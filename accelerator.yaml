@@ -1,0 +1,15 @@
+accelerator:
+  displayName: Simple Accelerator
+  description: Contains just a README
+  iconUrl: https://raw.githubusercontent.com/simple-starters/icons/master/icon-tanzu-light.png
+  tags:
+  - simple
+  - README
+  options:
+  - name: optionName
+    label: Nice Label
+    display: true
+    defaultValue: ""
+engine:
+  include:
+  - '**'
